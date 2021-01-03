@@ -12,6 +12,10 @@
   width: 100vw!important;
   height: 100vh!important;
 }
+.heed{
+  font-family: 'Times New Roman', Times, serif;
+}
+
 .timeline-label {
   position: relative;
   background: #f2f3f7;
